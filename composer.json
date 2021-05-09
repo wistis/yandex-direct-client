@@ -1,5 +1,5 @@
 {
-  "name": "gladyshev/yandex-direct-client",
+  "name": "wistis/yandex-direct-client",
   "keywords": ["yandex", "direct", "yandex.direct", "client", "api"],
   "description": "Useful Yandex.Direct API v5 client.",
   "type": "library",
@@ -18,7 +18,7 @@
     "ext-json":"*",
     "psr/http-client": "*",
     "psr/http-message": "*",
-    "guzzlehttp/psr7": "~1.7.0"
+    "guzzlehttp/psr7": "~1.8.2"
   },
   "require-dev": {
     "phpunit/phpunit": "~8.5.13",
